@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[can_zop]]></title>
         <description><![CDATA[can_zop]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/can_zop/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 04 Feb 2016 20:01:11 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 04 Feb 2016 20:06:32 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/can_zop/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/3a163a4b-2932-4f21-bc63-8f340b3c48ce.jpg">]]></description>
+            <link>https://thegrid.ai/can_zop/12d18140-4c82-47a0-810b-9fbf46bae43e/index.html</link>
+            <guid isPermaLink="false">12d18140-4c82-47a0-810b-9fbf46bae43e</guid>
+            <pubDate>Thu, 04 Feb 2016 20:05:36 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/0b865067-2db9-4a7b-8bb4-da4725bad0ac.jpg">]]></description>
-            <link>undefinede867b0bf-1ea5-4b4a-9ed4-7c392a7abd73/index.html</link>
+            <link>https://thegrid.ai/can_zop/e867b0bf-1ea5-4b4a-9ed4-7c392a7abd73/index.html</link>
             <guid isPermaLink="false">e867b0bf-1ea5-4b4a-9ed4-7c392a7abd73</guid>
             <pubDate>Thu, 04 Feb 2016 20:00:36 GMT</pubDate>
         </item>
