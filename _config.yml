@@ -1,6 +1,6 @@
 name: can_zop
 favicon: null
-layout_spectrum: 1
+layout_spectrum: 0.49495
 typography_spectrum: 0.21375
 cta:
   domain: null
@@ -24,5 +24,5 @@ color:
   brandStrength: 0.11705292481929064
   lightness: 0.9403749075718224
   saturation: 0.3890117001719773
-  rhythmicContrast: 0.5975004334468395
+  rhythmicContrast: 0.5
 purpose: []
