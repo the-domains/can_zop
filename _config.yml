@@ -1,0 +1,28 @@
+name: can_zop
+favicon: null
+layout_spectrum: 0.11040941416285932
+typography_spectrum: 0.2962397960945964
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#A690A4'
+    - '#B68F9D'
+    - '#C8ACAB'
+    - '#FBB9BF'
+    - '#E376B7'
+  brandStrength: 0.11705292481929064
+  lightness: 0.9403749075718224
+  saturation: 0.3890117001719773
+  rhythmicContrast: 0.5975004334468395
+purpose: []
